@@ -5,7 +5,7 @@
     {"EmployeeName":"John Adams","EmployeeRole":"Back-end developer","AbsentCount":"2","EmployeeImg":"https://raw.githubusercontent.com/Saeedprojects/Project2JSON-IT315/main/img2.png","TardinessCount":"4"},
     {"EmployeeName":"Thomas Jefferson","EmployeeRole":"Front-end developer","AbsentCount":"9","EmployeeImg":"https://raw.githubusercontent.com/Saeedprojects/Project2JSON-IT315/main/img3.png","TardinessCount":"7"},
     {"EmployeeName":"James Madison","EmployeeRole":"QC Testing","AbsentCount":"3","EmployeeImg":"https://raw.githubusercontent.com/Saeedprojects/Project2JSON-IT315/main/img4.png","TardinessCount":"0"},
-    {"EmployeeName":"James Monroe","EmployeeRole":"QA Testing","AbsentCount":"0","EmployeeImg":"https://raw.githubusercontent.com/Saeedprojects/Project2JSON-IT315/main/img5.png","TardinessCount":"0"},
+    {"EmployeeName":"James Monroe","EmployeeRole":"QA Testing","AbsentCount":"0","EmployeeImg":"https://raw.githubusercontent.com/Saeedprojects/Project2JSON-IT315/main/img5.png","TardinessCount":"0"}
   ],
   "Status":"OK"
 }
